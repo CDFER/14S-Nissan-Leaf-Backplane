@@ -391,4 +391,15 @@
 		(uuid "d351553d-2e2c-45cf-838c-56c25e595a12")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Custom-Footprints.pretty/Nissan-Leaf-Gen1.STEP"
+		(offset
+			(xyz 109.5 -15 -314.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )

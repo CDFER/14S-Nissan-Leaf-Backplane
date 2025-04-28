@@ -553,7 +553,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "Backplane.dsn",
-      "step": "",
+      "step": "Backplane.step",
       "svg": "",
       "vrml": ""
     },
