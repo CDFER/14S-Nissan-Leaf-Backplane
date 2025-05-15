@@ -2246,18 +2246,6 @@
 		(uuid "069e4593-62a5-4401-a97a-657133d8efc8")
 	)
 	(junction
-		(at 127 12.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "09e73c57-30af-48a8-a4b7-725e0f7f6341")
-	)
-	(junction
-		(at 127 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c9279e6-6402-4986-8e54-007844ff40a1")
-	)
-	(junction
 		(at 124.46 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2346,12 +2334,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5394166c-056f-4d33-84fb-d24ce7cd72b1")
-	)
-	(junction
-		(at 127 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58dc7f93-6d16-40c5-9502-6fd4d135406f")
 	)
 	(junction
 		(at 71.12 66.04)
@@ -2462,12 +2444,6 @@
 		(uuid "cd76bf46-e63f-4515-bc55-28c494babab0")
 	)
 	(junction
-		(at 127 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d62b261a-ecc9-4976-8901-cf48c90aee6b")
-	)
-	(junction
 		(at 124.46 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2518,16 +2494,6 @@
 			(type default)
 		)
 		(uuid "02b027b0-b252-44b6-aaac-752cebe495e8")
-	)
-	(wire
-		(pts
-			(xy 134.62 20.32) (xy 127 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07c376af-0f29-4887-946f-f59d1e2dc67a")
 	)
 	(wire
 		(pts
@@ -2941,16 +2907,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 12.7) (xy 127 12.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "936eaca0-a111-4d7d-ae01-e666618babbe")
-	)
-	(wire
-		(pts
 			(xy 71.12 63.5) (xy 76.2 63.5)
 		)
 		(stroke
@@ -3108,26 +3064,6 @@
 			(type default)
 		)
 		(uuid "dfc16144-c8b0-4c7f-a989-2d1656506eb4")
-	)
-	(wire
-		(pts
-			(xy 134.62 190.5) (xy 127 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e06fcb0d-b3ca-48ea-a940-5bc90d5a822c")
-	)
-	(wire
-		(pts
-			(xy 134.62 30.48) (xy 127 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6a3adff-bbae-4f9c-9b13-0cd3241e64e5")
 	)
 	(wire
 		(pts
@@ -3683,37 +3619,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 134.62 12.7 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3c5441a0-d098-4ad4-a054-a51906a98fc4")
-		(property "Netclass" "3A"
-			(at 137.16 12.0015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 25.4 -16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
 		(at 43.18 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3765,99 +3670,6 @@
 		)
 		(property "Component Class" ""
 			(at -66.04 -3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 134.62 190.5 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "929810b0-3b37-40df-81e7-4f4205ba5478")
-		(property "Netclass" "3A"
-			(at 137.16 189.8015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 25.4 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 134.62 30.48 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9ebe3796-dfd6-4c6c-9aa5-b473022627f1")
-		(property "Netclass" "3A"
-			(at 137.16 29.7815 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 25.4 1.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 134.62 20.32 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c4277f38-90c8-4d56-83b0-5099010bfaac")
-		(property "Netclass" "3A"
-			(at 137.16 19.6215 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 25.4 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
